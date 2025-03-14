@@ -1,0 +1,46 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "X-TIKA:Parsed-By",
+                    "size": 10992
+                },
+                {
+                    "name": "X-TIKA:Parsed-By-Full-Set",
+                    "size": 10992
+                },
+                {
+                    "name": "X-TIKA:content_handler",
+                    "size": 10992
+                },
+                {
+                    "name": "Content-Encoding",
+                    "size": 10992
+                },
+                {
+                    "name": "X-TIKA:parse_time_millis",
+                    "size": 10992
+                },
+                {
+                    "name": "X-TIKA:embedded_depth",
+                    "size": 10992
+                },
+                {
+                    "name": "resourceName",
+                    "size": 10992
+                },
+                {
+                    "name": "Content-Length",
+                    "size": 10992
+                },
+                {
+                    "name": "Content-Type",
+                    "size": 10992
+                }
+            ],
+            "name": "cluster0"
+        }
+    ],
+    "name": "clusters"
+}
